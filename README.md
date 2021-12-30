@@ -31,7 +31,7 @@ Click resume badge below to view my profile
 <div align=center>
 <h3>👨‍💻 Links About me </h3>
 
-<a href="https://www.linkedin.com/in/minsu-kim-123382123/">
+<a href="https://programmers.co.kr/pr/kcms2369_470">
     <img 
         src="https://img.shields.io/badge/-Resume-00A98F?style=flat-square&logo=About.me&logoColor=white&link=https://programmers.co.kr/pr/kcms2369_4704"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
