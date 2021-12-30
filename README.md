@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIMTHE)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMTHE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://solved.ac/kcms2369"><img height="195px" width="320px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kcms2369" /></a>
+| <a href="https://github.com/KIMTHE/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KIMTHE&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="KIMTHE's github stats" /></a> | <a href="https://github.com/KIMTHE/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMTHE&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
