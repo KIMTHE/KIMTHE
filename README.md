@@ -35,7 +35,12 @@ Click resume badge below to view my profile
     <img 
         src="https://img.shields.io/badge/-Resume-00A98F?style=flat-square&logo=About.me&logoColor=white&link=https://programmers.co.kr/pr/kcms2369_4704"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>  
+</a> 
+<a href="https://programmers.co.kr/pr/kcms2369_4704">
+    <img 
+        src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white&link=https://programmers.co.kr/pr/kcms2369_4704"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+</a>
 <a href="https://www.linkedin.com/in/minsu-kim-123382123/">
     <img 
         src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minsu-kim-123382123/"
